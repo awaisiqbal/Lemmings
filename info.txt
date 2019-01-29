@@ -1,0 +1,41 @@
+﻿Rafael Guardeño Marquez
+Awais Iqbal Begum 
+
+Funcionalidades:
+
+Menus:
+	- Principal
+	- Instrucciones
+	- Créditos
+	- Selección de nivel
+	- Pantalla de victoria
+	- Pantalla de Derrota
+	- Pantalla de juego
+Scrolling
+Habilidades de los Lemmings:
+	- Paraguas
+	- Excavar
+	- Basher
+	- Explotar un Lemming
+	- Explotar todos los Lemmings
+	- Escalar
+	- Blocker
+
+Instrucciones:
+
+Cuando se inicia el juego se empieza en la pantalla de Menu donde tneemos varias opciones
+	1) Empezar el juego por el nivel 1
+	2) Abrir Options donde se puede seleccionar los 3 niveles disponibles
+	3) Consultar las Instrucciones del juego
+	4) Creditos donde se indican los desarrolladores
+	5) Salir del juego
+
+Cuando entramos en el juego se puede ver que hay 5 habilidades implementadas, empezando por la izquierda:
+	1) Paraguas: cuando un lemming tiene esta habilidad, no puede morir por la caida.
+	2) Excavar: Con esta habilidad el lemming puede excavar hacia abajo
+	3) Basher: Excava horizontalmente
+	4) Blocker: Bloquea a todos los lemmings que chocan con y les cambia el sentido
+	5) Escalar: Permite al lemmings escalar paredes.
+	6) Pausar el juego
+	7) Explotar todos los lemmings
+	8) Cambiar la velocidad del juego

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Credits.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Instructions.cpp" />
+    <ClCompile Include="levelSelection.cpp" />
+    <ClCompile Include="lose.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MaskedTexturedQuad.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="ShaderProgram.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="Text.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="TexturedQuad.cpp" />
+    <ClCompile Include="VariableTexture.cpp" />
+    <ClCompile Include="view.cpp" />
+    <ClCompile Include="Win.cpp" />
+    <ClCompile Include="Gate.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Lemming.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundSystem.cpp" />
+    <ClCompile Include="ButtonsBanner.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AnimKeyframes.h" />
+    <ClInclude Include="common_defs.h" />
+    <ClInclude Include="Credits.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Instructions.h" />
+    <ClInclude Include="levelSelection.h" />
+    <ClInclude Include="lose.h" />
+    <ClInclude Include="MaskedTexturedQuad.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="ShaderProgram.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="Text.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="TexturedQuad.h" />
+    <ClInclude Include="VariableTexture.h" />
+    <ClInclude Include="View.h" />
+    <ClInclude Include="Win.h" />
+    <ClInclude Include="Gate.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Lemming.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundSystem.h" />
+    <ClInclude Include="ButtonsBanner.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GameScene">
+      <UniqueIdentifier>{8a51b490-d817-4f1f-884d-d750ea806904}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
